@@ -88,7 +88,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/sagar-gavhane/chess-game-solution.git
-cd chess-game
+cd chess-game-solution
 ```
 
 ### Running Tests in IntelliJ
